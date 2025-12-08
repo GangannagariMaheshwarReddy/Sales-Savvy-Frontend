@@ -1,4 +1,4 @@
-# 🛒 SalesSavvy — Frontend (React.js)
+# 🛒 SalesSavvy — Frontend (React.js) !!!
 
 This is the **frontend** of the SalesSavvy E-Commerce Platform, built using **React.js**. It provides a clean, responsive, and user-friendly interface for customers and admins to browse products, manage carts, place orders, and handle inventory. The frontend communicates with the Spring Boot backend through REST APIs and supports secure JWT-based authentication.
 
